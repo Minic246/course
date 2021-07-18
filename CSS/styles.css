@@ -1,3 +1,11 @@
-body {
-  background: gold;
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  --colour-primary: #2584ff;
+  --colour-secondary: #00d9ff;
+  --colour-accent: #ff3400;
+  --colour-headings: #1b0760;
+  --colour-body: #918ca4;
 }
